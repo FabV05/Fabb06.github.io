@@ -53,7 +53,6 @@
     * [Password Spray](basic-knowledge/4-inside-the-target/windows/password-spray.md)
     * [LLMNR / NBT-NS Poisoning](basic-knowledge/4-inside-the-target/windows/llmnr-nbt-ns-poisoning.md)
     * [Kerberoast](basic-knowledge/4-inside-the-target/windows/kerberoast.md)
-    * [NTLM Hashes](basic-knowledge/4-inside-the-target/windows/ntlm-hashes.md)
     * [DCSync](basic-knowledge/4-inside-the-target/windows/dcsync.md)
     * [AD CS](basic-knowledge/4-inside-the-target/windows/ad-cs.md)
     * [AD FS](basic-knowledge/4-inside-the-target/windows/ad-fs.md)
