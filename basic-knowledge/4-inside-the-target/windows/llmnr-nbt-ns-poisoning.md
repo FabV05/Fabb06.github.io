@@ -1,6 +1,6 @@
 # LLMNR / NBT-NS Poisoning
 
-## LLMNR, NBT-NS, mDNS Poisoning and Relay Attacks
+
 
 ### Overview
 

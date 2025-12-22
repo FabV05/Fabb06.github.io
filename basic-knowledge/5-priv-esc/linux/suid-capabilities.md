@@ -1,2 +1,0 @@
-# SUID / Capabilities
-

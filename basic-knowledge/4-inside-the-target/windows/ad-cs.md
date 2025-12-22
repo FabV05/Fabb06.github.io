@@ -1,7 +1,5 @@
 # Active Directory Certificate Services (AD CS) Domain Escalation
 
-## Active Directory Certificate Services (AD CS) Domain Escalation
-
 ### Overview
 
 **Active Directory Certificate Services (AD CS)** is Microsoft's Public Key Infrastructure (PKI) implementation for Windows environments. While essential for certificate-based authentication and encryption, AD CS introduces numerous attack vectors when misconfigured. These vulnerabilities, collectively known as "Certified Pre-Owned" escalation techniques (ESC1-ESC16), allow attackers to forge certificates, impersonate privileged users, and achieve domain dominance.
