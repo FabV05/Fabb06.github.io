@@ -6,10 +6,6 @@
 * [Payloads & Friends](about-me/payloads-and-friends.md)
 * [To do list](about-me/to-do-list.md)
 
-## Challenges
-
-* [HTB](challenges/htb.md)
-
 ## Basic Knowledge
 
 * [0 Mindmaps and checklists](basic-knowledge/0.-mindmaps-and-checklists/README.md)
@@ -91,3 +87,18 @@
     * [Certificate Abuse](basic-knowledge/6-post-explotation/lateral-movement/certificate-abuse.md)
     * [AD CS Attacks](basic-knowledge/6-post-explotation/lateral-movement/ad-cs-attacks.md)
   * [Thief data](basic-knowledge/6-post-explotation/thief-data.md)
+
+## Challenges
+
+* [Hack The Box – OSCP Study Roadmap](challenges/hack-the-box-oscp-study-roadmap.md)
+* [Hack The Box - ProLabs Tips (Spanish video)](challenges/hack-the-box-prolabs-tips-spanish-video/README.md)
+  * [Pro Lab Zephyr](challenges/hack-the-box-prolabs-tips-spanish-video/pro-lab-zephyr.md)
+* [HTB](challenges/htb/README.md)
+  * [HTB - Guardian - 10.129.94.222](challenges/htb/htb-guardian-10.129.94.222.md)
+  * [HTB - Hacknet - 10.10.11.85](challenges/htb/htb-hacknet-10.10.11.85.md)
+  * [HTB - ServMon - 10.10.10.184](challenges/htb/htb-servmon-10.10.10.184.md)
+  * [HTB - Seu - 10.10.11.224](challenges/htb/htb-seu-10.10.11.224.md)
+
+## Certificactions
+
+* [CPTS Tips (Spanish video)](certificactions/cpts-tips-spanish-video.md)
