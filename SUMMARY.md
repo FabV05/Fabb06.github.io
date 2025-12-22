@@ -36,6 +36,7 @@
     * [Jenkins](basic-knowledge/0.3-web-pentest/common-web-targets/jenkins.md)
   * [Vulnerabilities](basic-knowledge/0.3-web-pentest/vulnerabilities/README.md)
     * [LDAP Injection](basic-knowledge/0.3-web-pentest/vulnerabilities/html-injection.md)
+    * [LFI](basic-knowledge/0.3-web-pentest/vulnerabilities/lfi.md)
     * [IDOR](basic-knowledge/0.3-web-pentest/vulnerabilities/idor.md)
     * [XSS](basic-knowledge/0.3-web-pentest/vulnerabilities/xss.md)
     * [Command Injection](basic-knowledge/0.3-web-pentest/vulnerabilities/command-injection.md)
