@@ -22,7 +22,7 @@ This document defines a structured and professional study roadmap for Hack The B
 | \[ ] Broker      | \[ ] Blackfield    |
 | \[ ] Intentions  | \[ ] Timelapse     |
 | \[ ] Soccer      | \[ ] Jeeves        |
-| \[x] Keeper      | \[ ] Manager       |
+| (✓) Keeper       | \[ ] Manager       |
 | \[ ] Monitored   | \[ ] Access        |
 | \[ ] BoardLight  | \[ ] Aero          |
 | \[ ] Networked   | \[ ] Mailing       |
