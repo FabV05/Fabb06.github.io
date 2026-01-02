@@ -23,7 +23,7 @@ This document defines a structured and professional study roadmap for Hack The B
 | \[ ] Intentions  | \[ ] Timelapse     |
 | \[ ] Soccer      | \[ ] Jeeves        |
 | (✓) Keeper       | \[ ] Manager       |
-| \[ ] Monitored   | \[ ] Access        |
+| \[ ] Monitored   | (✓) Access         |
 | \[ ] BoardLight  | \[ ] Aero          |
 | \[ ] Networked   | \[ ] Mailing       |
 | \[ ] CozyHosting | \[ ] Administrator |
