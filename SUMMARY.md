@@ -87,6 +87,7 @@
 * [Hack The Box - ProLabs Tips (Spanish video)](challenges/hack-the-box-prolabs-tips-spanish-video/README.md)
   * [Pro Lab Zephyr](challenges/hack-the-box-prolabs-tips-spanish-video/pro-lab-zephyr.md)
 * [HTB](challenges/htb/README.md)
+  * [HTB - ACCESS  - 10.129.244.44](challenges/htb/htb-access-10.129.244.44.md)
   * [HTB - Guardian - 10.129.94.222](challenges/htb/htb-guardian-10.129.94.222.md)
   * [HTB - Keeper - 10.129.229.41](challenges/htb/htb-keeper-10.129.229.41.md)
   * [HTB - Hacknet - 10.10.11.85](challenges/htb/htb-hacknet-10.10.11.85.md)
