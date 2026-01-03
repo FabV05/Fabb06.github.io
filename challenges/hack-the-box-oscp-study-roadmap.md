@@ -45,7 +45,7 @@ This document defines a structured and professional study roadmap for Hack The B
 | Active Directory Boxes   | Advanced / Challenge Boxes    |
 | ------------------------ | ----------------------------- |
 | \[ ] Forest              | \[ ] Mentor (Linux)           |
-| \[ ] Sauna               | \[ ] Absolute (Windows)       |
+| (✓) Sauna                | \[ ] Absolute (Windows)       |
 | \[ ] Monteverde          | \[ ] Outdated (Windows)       |
 | \[ ] Return              | \[ ] Atom (Windows)           |
 | \[ ] Cascade             | \[ ] APT (Windows)            |

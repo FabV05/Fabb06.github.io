@@ -93,6 +93,7 @@
   * [HTB - Hacknet - 10.10.11.85](challenges/htb/htb-hacknet-10.10.11.85.md)
   * [HTB - ServMon - 10.10.10.184](challenges/htb/htb-servmon-10.10.10.184.md)
   * [HTB - Seu - 10.10.11.224](challenges/htb/htb-seu-10.10.11.224.md)
+  * [HTB - Sauna - 10.129.95.180](challenges/htb/htb-sauna-10.129.95.180.md)
 
 ## Certificactions
 
