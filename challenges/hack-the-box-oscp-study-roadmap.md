@@ -27,7 +27,7 @@ This document defines a structured and professional study roadmap for Hack The B
 | \[ ] BoardLight  | \[ ] Aero          |
 | \[ ] Networked   | \[ ] Mailing       |
 | \[ ] CozyHosting | \[ ] Administrator |
-| \[ ] Editorial   | \[ ] Certified     |
+| \[ ] Editorial   | \[✓ ] Certified    |
 | \[ ] Magic       | \[ ] Fluffy        |
 | \[ ] Pandora     | \[ ] Vintage       |
 | \[ ] Builder     | \[ ] EscapeTwo     |
