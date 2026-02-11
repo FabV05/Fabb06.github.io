@@ -1,42 +1,31 @@
 # Hack The Box – OSCP Study Roadmap
 
-This document defines a structured and professional study roadmap for Hack The Box, designed for **post-OSCP skill consolidation** and long-term red team development. It is intended for **GitBook documentation**, with clarity, consistency, and auditability as priorities.
-
-***
-
-### References and External Resources
-
-* **0xdf – Useful Writeups & Cheatsheets**\
-  [https://0xdf.gitlab.io/cheatsheets/offsec](https://0xdf.gitlab.io/cheatsheets/offsec)
-
-***
-
 ### Linux Boxes | Windows Boxes
 
-| Linux Boxes      | Windows Boxes      |
-| ---------------- | ------------------ |
-| \[ ] Busqueda    | \[ ] Escape        |
-| \[ ] UpDown      | \[ ] Servmon       |
-| \[ ] Sau         | \[ ] Support       |
-| \[ ] Help        | \[ ] StreamIO      |
-| \[ ] Broker      | \[ ] Blackfield    |
-| \[ ] Intentions  | \[ ] Timelapse     |
-| \[ ] Soccer      | \[ ] Jeeves        |
-| (✓) Keeper       | \[ ] Manager       |
-| \[ ] Monitored   | (✓) Access         |
-| \[ ] BoardLight  | \[ ] Aero          |
-| \[ ] Networked   | \[ ] Mailing       |
-| \[ ] CozyHosting | \[ ] Administrator |
-| \[ ] Editorial   | \[✓ ] Certified    |
-| \[ ] Magic       | \[ ] Fluffy        |
-| \[ ] Pandora     | \[ ] Vintage       |
-| \[ ] Builder     | \[ ] EscapeTwo     |
-| \[ ] LinkVortex  |                    |
-| \[ ] Dog         |                    |
-| \[ ] Markup      |                    |
-| \[ ] Editor      |                    |
-| \[ ] Usage       |                    |
-| \[ ] Titanic     |                    |
+| Linux Boxes     | Windows Boxes      |
+| --------------- | ------------------ |
+| \[ ] Busqueda   | \[ ] Escape        |
+| \[ ] UpDown     | (✓) Servmon        |
+| \[ ] Sau        | (✓) Support        |
+| \[ ] Help       | \[ ] StreamIO      |
+| (✓) Broker      | (✓) Blackfield     |
+| \[ ] Intentions | \[ ] Timelapse     |
+| \[ ] Soccer     | \[ ] Jeeves        |
+| (✓) Keeper      | \[ ] Manager       |
+| \[ ] Monitored  | (✓) Access         |
+| (✓) BoardLight  | \[ ] Aero          |
+| \[ ] Networked  | \[ ] Mailing       |
+| (✓) CozyHosting | \[ ] Administrator |
+| (✓) Editorial   | (✓) Certified      |
+| \[ ] Magic      | \[ ] Fluffy        |
+| \[ ] Pandora    | (✓) Vintage        |
+| \[ ] Builder    | \[ ] EscapeTwo     |
+| \[ ] LinkVortex |                    |
+| \[ ] Dog        |                    |
+| \[ ] Markup     |                    |
+| \[ ] Editor     |                    |
+| \[ ] Usage      |                    |
+| \[ ] Titanic    |                    |
 
 ***
 
@@ -44,7 +33,7 @@ This document defines a structured and professional study roadmap for Hack The B
 
 | Active Directory Boxes   | Advanced / Challenge Boxes    |
 | ------------------------ | ----------------------------- |
-| \[ ] Forest              | \[ ] Mentor (Linux)           |
+| \[ ] Forest              | (✓) Mentor (Linux)            |
 | (✓) Sauna                | \[ ] Absolute (Windows)       |
 | \[ ] Monteverde          | \[ ] Outdated (Windows)       |
 | \[ ] Return              | \[ ] Atom (Windows)           |

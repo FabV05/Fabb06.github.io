@@ -21,7 +21,7 @@
 
 #### Certification
 
-* [ ] **CRTO (Zero-Point Security)**\
+* [x] **CRTO (Zero-Point Security)**\
   **Planned completion:** January 2026
 
 #### Focus Areas
@@ -34,11 +34,11 @@
 
 #### Required Outputs (`/certs/CRTO/`)
 
-* [ ] End-to-end C2 attack flow
-* [ ] Token abuse & delegation notes
-* [ ] Lateral movement decision tree
-* [ ] OPSEC failures and detection mapping
-* [ ] MITRE ATT\&CK technique alignment
+* [x] End-to-end C2 attack flow
+* [x] Token abuse & delegation notes
+* [x] Lateral movement decision tree
+* [x] OPSEC failures and detection mapping
+* [x] MITRE ATT\&CK technique alignment
 
 >
 
